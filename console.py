@@ -3,8 +3,8 @@
 File: console.py
 
 Authors:
-        Kevin Gatimu <kelchospense88@gmail.com>
-        Peter Adewole <phemmyadey@gmail.com>
+        omanyu japheth <omanyujapheth@gmail.com>
+        
 
 
 Create a new object (ex: a new User or a new Place)
