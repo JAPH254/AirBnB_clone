@@ -58,6 +58,5 @@ $
 
 # Authors
 ***
-  * Kevin Gatimu <kelchospense88@gmail.com>
-  * Peter Adewole <phemmyadey@gmail.com>
+*omanyu japheth <omanyujapheth@gmail.com>
 ---
